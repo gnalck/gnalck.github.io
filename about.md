@@ -11,14 +11,14 @@ You can contact me at klang 2012 dot gmail dot com.
 
 I'm in other places, too, you know:
 
-github
+[github](https://github.com/gnalck/)
 
-stackoverflow
+[stackoverflow](http://stackoverflow.com/users/6137718/gnalck)
 
 [hackernews](https://news.ycombinator.com/user?id=gnalck)
 
-rateyourmusic
+[rateyourmusic](https://rateyourmusic.com/~gnalck)
 
-goodreads
+[goodreads]()
 
-reddit
+[reddit]()
