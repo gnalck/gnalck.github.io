@@ -5,7 +5,7 @@ rym-rating: 4
 rym-link:   https://rateyourmusic.com/film/%EC%83%9D%ED%99%9C%EC%9D%98_%EB%B0%9C%EA%B2%AC/
 ---
 
-![The fixated peasant]({{site.baseurl}}film/images/hong-sang-soo-turning-gate.jpg)
+![The fixated peasant]({{site.baseurl}}/film/images/hong-sang-soo-turning-gate.jpg)
 
 The title of the movie is based on a myth, expounded in the film itself, of a commoner who falls in love with the emperor's daughter. As a result, he is executed, but comes back as a snake and winds around her. The princess then tells the snake that she will be go to a temple and be back with food, but once she enters, she does not come out. The snake begins to enter the temple, but is frightened by the lightning and rain, and turns around at the gate. And so the gate, while completely static, is named the Turning Gate.
 
