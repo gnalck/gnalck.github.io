@@ -2,6 +2,9 @@
 layout:     post
 title:      Frederick Wiseman - High School (1968)
 ---
+
+![Girls dancing in gym class]({{site.baseurl}}/film/images/wiseman-high-school-girls.jpg)
+
 A series of Wiseman films were shown at the local indie cinema. After being quite impressed by Titicut Follies, I was pretty hyped to see this one, which was playing over the weekend. I walked all the way there only to find out that it wasn’t playing – only now some months later have I finally gotten around to watching the film.
 
 The premise of High School is quite simple - an exploration of Northeast Highschool in 1968. We are treated with a variety of scenes: to the rehearsal of a fashion show with the teacher-organizer explaining to the students the fine points of, well, grace and finesse; a nerdy guy with glasses complaining about a detention mistakenly received; sexual education classes; people talking about how they hate everyone at the school; etc.

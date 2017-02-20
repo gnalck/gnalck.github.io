@@ -7,7 +7,7 @@ tags: about
 
 Hi, how are you?
 
-You can contact me at klang 2012 dot gmail dot com.
+You can contact [me at gnalck dot com].
 
 I'm in other places, too, you know:
 
@@ -18,7 +18,3 @@ I'm in other places, too, you know:
 [hackernews](https://news.ycombinator.com/user?id=gnalck)
 
 [rateyourmusic](https://rateyourmusic.com/~gnalck)
-
-[goodreads]()
-
-[reddit]()

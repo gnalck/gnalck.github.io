@@ -3,6 +3,9 @@ layout:     post
 title:      Hong Sang-soo - The Day He Arrives (2011)
 subtitle:   Recurrence Relations
 ---
+
+![Song-jeung is one cool guy]({{site.baseurl}}/film/images/hong-sang-soo-the-day-he-arrives.jpg)
+
 The Day He Arrives is the first film I've seen from Hon Sang-soo - I first heard of him when the local indie cinema here had a trailer for Right Now, Wrong Then, which seemed to have similar thematic elements at least - explorations of the concept of eternal recurrence, permuted on the scale of a day or moment instead of, say, a lifetime.
 
 The recurring scene here is actually quite simple: the Seong-jun is in Seoul, seemingly just arriving from the country where he was before. He meets up with hsi friend, Young-ho, usually with some sort of escapade in between arriving and meeting up with him. They and Bo-ram (Young-ho's friend) get drinks at Ye-jeon's bar, get drunk, and the night ends (or melds into the next one). Of course, the characters themselves even talk at length about the nature of coincidences and their incomprehensibility - though we try to 'connect the dots' and name that line of our own creation: 'reason'.
