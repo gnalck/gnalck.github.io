@@ -2,8 +2,6 @@
 layout:     post
 title:      JWT audience validation - a URI by any other string
 date:       2016-10-03 15:31:19
-summary:    Lessons from a JWT bug, and the exploration of the web standards that surround it.
-categories: url abstraction
 ---
 
 I recently ran into a bug at work related to URI comparison, which has gotten me to thinking about URLs, URNs, and URIs (oh my!). There are a couple of good resources going over the difference [between the three](http://stackoverflow.com/questions/176264/what-is-the-difference-between-a-uri-a-url-and-a-urn/1984225), so I won't bore you with that. Instead, let's talk about the nature of URL comparison, and its relation to [OWIN token flows](https://en.wikipedia.org/wiki/Open_Web_Interface_for_.NET).

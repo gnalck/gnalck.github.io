@@ -2,15 +2,14 @@
 layout:     post
 title:      Using Typescript definitions with local Javascript modules
 date:       2016-09-25 15:31:19
-summary:    Some background on Typescript definitions, and Javascript modules - and the interoperability between the two.
-categories: typescript modules
+categories: tech
 ---
+
+Let's dive into a common scenario of [creating Typescript definitions](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html) for local Javascript modules. We will create a simple Javascript module that contains a bunch of 'noises', and then try to use that code in a Typescript file.
 
 I've found that the best way to get deep knowledge of a language or environment - aside from actually creating things with those tools - is to answer questions about those very things. I'm a firm believer that if you cannot teach something, then it probably means you don't know it well enough yet! You could say that I [learn by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching).
 
 Unfortunately, I'm a software engineer, not a teacher, so the oppurtunity for explanation is not as great. Luckily there is [Stack Overflow](https://stackoverflow.com/users/6137718/gnalck), where I've answered a couple of Typescript questions related to modules and definition files. I think these are as frequent as they are interesting, conceptually, because in the realm of inter-operability, you _have_ to know both sides of the equation very well, if you are to make sense of it all.
-
-Let's dive into a common scenario of [creating Typescript definitions](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html) for local Javascript modules. We will create a simple Javascript module that contains a bunch of 'noises', and then try to use that code in a Typescript file.
 
 ## Creating the Javascript module
 

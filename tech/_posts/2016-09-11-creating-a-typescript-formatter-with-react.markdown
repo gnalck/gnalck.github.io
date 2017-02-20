@@ -2,11 +2,9 @@
 layout:     post
 title:      Creating a Typescript Formatter With React
 date:       2016-09-11 15:31:19
-summary:    A walkthrough of how I created typescript-formatter, my first React application.
-categories: react typescript
 ---
 
-I recently started [exploring React](https://facebook.github.io/react/docs/tutorial.html), and was looking for something simple to build myself, that was outside the realm of the tutorials I went through. Having also been [exploring Angular 2 and Typescript](https://angular.io/docs/ts/latest/quickstart.html) lately, I went looking for things that I could create that would be something functional and useful that merged these current.
+I recently started [exploring React](https://facebook.github.io/react/docs/tutorial.html), and was looking for something simple to build myself, that was outside the realm of the tutorials I went through. Having also been [exploring Angular 2 and Typescript](https://angular.io/docs/ts/latest/quickstart.html) lately, I went looking for things that I could create that would be something functional and useful that merged these two things.
 
 We will walk through the steps needed to create a simple Typescript formatter. This will be coded up in Javascript, but we will leverage the Typescript library's formatting service. I assume you have already coded things in React before - if you haven't I highly recommend going through the excellent [official React tutorial](https://facebook.github.io/react/docs/tutorial.html) before jumping in here.
 
