@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      Hong Sang-soo - In Another Country (2012)
+---
+
+![Puppets.]({{site.baseurl}}/film/images/hong-sang-soo-in-another-country.jpg)
+
+Probably the least profound Hong Sang-Soo movie I’ve seen so far. That being said, it is well executed, just sort of self-indulgent. It feels, aesthetically, the equivalent of Saturday morning cinema on an obscure foreign film cable channel back in the oughties, or something. Light but with images that seem to stay with you long after the cereal is digested, the TV is off, and the sun stares a bit too brightly at you through the curtains.
+
+A host/manager of a sort of motel on the beach in South Korea has a series of sketches, that are played out before our eyes, of the interactions of a English-speaking French woman who visits those very motels. In one variation, she is a director visiting a fellow director, in another a wife of an executive visiting for an amorous getaway with a director, and lastly as a woman who recently divorced her husband after it is found out he is having an affair with a Korean woman.
+
+This one depressed me a bit, perhaps because the degree of repetition is higher than his other films, or less nuanced, at least. There is a particular scene, for instance, where she asks the manager for a nice place to visit nearby, which is executed atleast 5-6 times. It’s almost like a bad trip, the way things keep on repeating themselves – even though completely new characters are introduced and the underlying premise of that particular iteration being quite different form the others, everything seems to converge upon the same things. Not unlike the broken English spoken between the various Korean characters and the protagonist, the film conveys not that sort of wondrous though melancholic feeling of things getting lost in translation, but rather the more bleak sense of things not getting conveyed at all – or worse, the feeling that there is nothing to be conveyed, between the characters and between the work, and you, the viewer.
+
+Lately I’ve been getting into even more of a pattern than usual. On the weekends I typically get up, try to cop music/film, go to yoga/climb, then either go to the library or cafe and read for a couple hours, come home and watch a film and write in a journal or something. All these Sang-soo films seem to be affecting me, it is as though I converge subconsciously unto the same things – a minimalism born out of apathy for all but the few activities and subjects I find interesting and worthwhile at this moment. And that fugue state of variation, when it chances upon me, feeling transient, superficial, and dreamlike instead of a welcome change of pace – a breath of fresh air. I’m unsure if these loops I find myself in are a meditative sort of development of taste/aesthetic/character or just simply self-indulgent.
