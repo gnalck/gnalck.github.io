@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      Lee Chang-dong - Secret Sunshine (2007)
+---
+
+![Cozy South Korean feels.]({{site.baseurl}}/film/images/lee-chang-dong-secret-sunshine.jpg)
+
+South Korean cinema tends towards the morose, no doubt. Lee Chang-dong is to despair as Chan-wook Park is to revenge, pretty much – nobody really can match either in their respective niche. If anything, I’m surprised at how relatively unpopular his films is, especially with the RYM crowd that raises up Naked and The Man Who Sleeps to such heights, even though he works in that same sort of dialectic.
+
+I watched this film sometime earlier this week, in two sittings. A woman who has recently become widowed moves to a small town in the countryside, the same that her husband came from. Putting on airs, she acts as though she is trying to invest in property, someone takes an interest in her, kidnaps in the quest for extracting ransom money. Honestly, these things bore me terribly, so I turned it off and watched some slice-of-life Korean stuff instead. However, I decided to give it another go, and am quite glad I resumed and finished it out. You see, I was afraid the entire film would be some melodramatic quest for revenge, or have the search for the kid being drawn out as it is in other films.
+
+Only a couple of scenes later, the kid dies and the perp is caught. The rest deals instead with despair and bereavement – my masochism is more in lines with melancholy than tearful suspense, I suppose.
+
+On paper, Chang-dong pretty much just produces Oscar bait film. I mean, you can see the synopsis above: A woman in pain comes to terms with the full experience of life, or some bullshit like that. However, in practice it is quite different. The salvation here, if there is any, isn’t some critical point in the third act where the protagonist finally understands God’s love and all is good – a thing you see too often in chick-flicks across the USA. If anything, one must search for it in the almost nihilistic portraiture and style of the director – the viewpoint at once intimate and detached, as you follow the woman towards her search for meaning in the god awful hand she has been dealt.
+
+Of much interest in the camerawork and general aesthetic that seems to follow the development of the characters emotional state. At the beginning we have calm long scenes, of Shin-ae and her son acclimating to the new circumstances, during the fateful kidnapping, the camera work is almost shakey, but by the time we get towards the end, it is calm, but with that throbbing of melancholy underneath. The style culminates in portraying that derealization of Shin-ae, as she comes to terms with the unfeeling nature of the world, not even able to seek meaning in Christ – how could she accepts the principle of the unanimity of that mercy when she alone seems to bear all of the suffering?
+
+The title of the film is the English translation of the name of the city (Miryang) they moved to from Seoul. It is alluded to throughout – the lady who tries to get Shin-ae into the church mentions that God is present in every ray of light. Even some of the movie posters sort of take the more straight-forward interpretation – that is is the empathy of a man in Miryang who takes interest in Shin-ae. I like to think instead that it is neither of these per se, but perhaps it is that divine sense of self, emanating in all of us, that allows us to see momentary glimpses of beauty in a world that is as indifferent to us as we are unreservedly immersed within it.
