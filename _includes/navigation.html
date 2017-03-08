@@ -1,13 +1,4 @@
-<a href="{{site.baseurl}}/tech">Tech</a>
-<a href="{{site.baseurl}}/film">Film</a>
-{% for page in site.pages %}
-    {% if page.tags contains "projects" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
-{% endfor %}
-{% for page in site.pages %}
-    {% if page.tags contains "about" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
-{% endfor %}
+<a href="{{site.baseurl}}/tech">tech</a>
+<a href="{{site.baseurl}}/film">film</a>
+<a href="{{site.baseurl}}/about">about</a>
 
